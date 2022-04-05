@@ -42,5 +42,8 @@ This is a project for the UCB Bootcamp. The goal is to create a node.js applicat
 * Feel free to reach me at my email [sam.ky.levin@gmail.com](mailto:sam.ky.levin@gmail.com)
 
 ### Video Example 
-<a href="https://drive.google.com/file/d/1htFKUcLSyaLwbBmBGJ8A4MNWL1IaQ5UF/preview" title="Link Title"><img src="{image-url}" alt="Alternate Text" /></a>
+
+
+https://user-images.githubusercontent.com/98499605/161860155-01b65761-c87f-4f4c-b69b-ce1579a09b76.mp4
+
 
