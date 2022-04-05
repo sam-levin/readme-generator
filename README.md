@@ -40,3 +40,6 @@ This is a project for the UCB Bootcamp. The goal is to create a node.js applicat
 
 * Github: [sam-levin](https://www.github.com/sam-levin) 
 * Feel free to reach me at my email [sam.ky.levin@gmail.com](mailto:sam.ky.levin@gmail.com)
+
+### Video Example 
+<iframe src="https://drive.google.com/file/d/1htFKUcLSyaLwbBmBGJ8A4MNWL1IaQ5UF/preview" width="640" height="480"></iframe>
