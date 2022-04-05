@@ -56,7 +56,7 @@ const promptUser = () => {
           type: 'checkbox',
           name: 'licensetype',
           message: 'What license did you license this project with? (Choose one)',
-          choices: ['JavaScript', 'HTML', 'CSS', 'ES6', 'jQuery', 'Bootstrap', 'MIT']
+          choices: ['Apache 2.0', 'MIT', 'Mozilla Public 2.0', 'Creative Commons 1.0', 'GNU GPL v3', 'IBM', 'ISC']
         },
         {
           type: 'input',
@@ -113,15 +113,7 @@ const promptUser = () => {
         {
           type: 'input',
           name: 'testInstructions',
-          message: 'Please enter testing instructions? (Required)',
-          validate: titleInput => {
-              if (titleInput) {
-                  return true;
-              } else {
-                  console.log("Please enter your Title!")
-                  return false;
-              }
-          }
+          message: 'Please enter testing instructions? (Optional)',
         },
     ])
  

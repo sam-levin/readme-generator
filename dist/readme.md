@@ -1,41 +1,36 @@
 
-      # Penis
+# Sams Project
 
-      ## Description
+## Description
 
-      Badge
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)      
 
-      Lick my butt
+This is a project made to generate README.md markdown documents dynamically using a command line tool
 
-      ## Table of Contents
+## Table of Contents
+[Description](#Description)
+[Installation](#Installation)  
+[Usage](#Usage)  
+[License](#License)  
+[Contributing](#Contributing)  
+[Tests](#Tests)  
+[Questions](#Questions)    
 
-      // this is always the same
+### Instalation
+* Download the code, as well as node.js and then run node index.js
 
-      [Description](#Description)
-      [Table of Contents](#Table-of-Contents)  
-      [Installation](#Installation)  
-      [Usage](#Usage)  
-      [License](#License)  
-      [Contributing](#Contributing)  
-      [Tests](#Tests)  
-      [Questions](#Questions)    
+### Usage
+* Run index.js 
 
-      ### Instalation
-      Shove it up your butt
-      ### Usage
-      Step 1: lick your taint
-      
-      ### License
-      JavaScript,HTML,CSS
+### License
+This project is covered under the ISC liscense
 
-      This project is covered under the JavaScript,HTML,CSS liscense
-      ### Contributing
-      undefined
-      
-      ### Tests
-      using JEST framework
-      
-      ### Questions
+### Contributing
+* Feel free to pull all you like champ
 
-      Github: [sam-levin](https://www.github.com/user/sam-levin) 
-      Feel free to reach me at my email sam.ky.levin@gmail.com (this email should also be a link)
+### Tests
+* N/a
+### Questions
+
+* Github: [Sam-levin](https://www.github.com/user/Sam-levin) 
+* Feel free to reach me at my email [sam.ky.levin@gmail.com](mailto:sam.ky.levin@gmail.com)
