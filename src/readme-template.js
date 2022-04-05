@@ -1,7 +1,6 @@
 const fs = require ('fs');
 
 const whatLicense = (licensetype) => {
-  console.log(licensetype)
   if (licensetype == 'Apache 2.0') {
       return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)"; 
   }
@@ -43,13 +42,13 @@ ${liscensename}
 ${description}
 
 ## Table of Contents
-[Description](#Description)
-[Installation](#Installation)  
-[Usage](#Usage)  
-[License](#License)  
-[Contributing](#Contributing)  
-[Tests](#Tests)  
-[Questions](#Questions)    
+[Description](#Description) \n
+[Installation](#Installation) \n 
+[Usage](#Usage)  \n
+[License](#License) \n  
+[Contributing](#Contributing) \n  
+[Tests](#Tests)  \n
+[Questions](#Questions) \n    
 
 ### Instalation
 * ${installation}
@@ -67,7 +66,7 @@ This project is covered under the ${licensetype} liscense
 * ${testInstructions}
 ### Questions
 
-* Github: [${username}](https://www.github.com/user/${username}) 
+* Github: [${username}](https://www.github.com/${username}) 
 * Feel free to reach me at my email [${emailAddress}](mailto:${emailAddress})`;
 }; 
 

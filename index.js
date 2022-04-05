@@ -6,10 +6,6 @@ const {writeFile} = require("./src/readme-template")
 
 
 
-const penistest = () => {
-    console.log("penis")
-}
-
 
 const promptUser = () => {
     return inquirer.prompt([
